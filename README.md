@@ -1,6 +1,16 @@
 # 💫 About Me:
-🚀 I'm currently working in a group on a blogging-platform web, delivery-site, medical-app app as part of my Full-Stack development training. Enhancing my portfolio by building modern, interactive web projects using React, Next.js, and the MERN Stack.<br>🤝 I'm looking to collaborate on<br>Open-source projects that focus on accessibility, design, or innovative user interfaces.<br>Projects related to web development, storytelling, or educational tools.<br>🤲 I'm looking for help with<br>Best practices for optimizing and deploying React and Next.js projects.<br>Expanding my knowledge in backend development with Node.js and MongoDB.<br>🌱 I'm currently learning<br>Advanced concepts of React, Next.js, and TypeScript.<br>Full-Stack development with a focus on building scalable applications.<br>💬 Ask me about<br>Web development, transitioning careers, and combining creativity with technology.<br>My experience as a translator and how it shaped my approach to software development. the fun fact that is i enjoy playing basketball, travelling, cooking 
+🚀 I'm currently working in a group on a blogging-platform web, delivery-site, medical-app app as part of my Full-Stack development training. Enhancing my portfolio by building modern, interactive web projects using React, Next.js, and the MERN Stack.<br>🤝 I'm looking to collaborate on<br>Open-source projects that focus on accessibility, design, or innovative user interfaces.<br>Projects related to web development, storytelling, or educational tools.<br>🤲 I'm looking for help with<br>Best practices for optimizing and deploying React and Next.js projects.<br>Expanding my knowledge in backend development with Node.js and MongoDB.<br>🌱 I'm currently learning<br>Advanced concepts of React, Next.js, and TypeScript.<br>Full-Stack development with a focus on building scalable applications.<br>💬 Ask me about<br>Web development, transitioning careers, and combining creativity with technology.<br>🌟 From Circuits to Code: My background in Electrical & Electronics Engineering has profoundly shaped the way I approach software development. The structured problem-solving, precision, and logical thinking I honed while working with circuits now guide me in writing clean, efficient, and scalable code. It’s a fusion of two worlds—hardware and software—where I find endless possibilities to create and innovate.
 
+🎵 Beyond the Code
+When I’m not deep in development, you’ll find me indulging in the things that keep me balanced and inspired:
+🏀 Basketball & Table Tennis – A love for the game, strategy, and movement.
+🍳 Cooking – A creative escape, where flavors come to life.
+🎧 Disc Jockeying – Living in Berlin, surrounded by artists, I naturally found my way into DJing. Nothing beats chilling with downtempo beats after a long day of coding.
+
+🚀 Always Building, Always Learning
+Software development, much like music and sports, is about rhythm, iteration, and creativity. I'm constantly learning, building, and seeking new ways to merge my technical skills with artistic expression.
+
+Let’s connect and create something amazing!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/davidedwinetim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:de488904@gmail.com) 
